@@ -1,0 +1,16 @@
+E:\Projetos\MVC\CursoMvcJunho22\src\AB.CursoMvc.Infra.Data\bin\Debug\netcoreapp3.1\AB.CursoMvc.Infra.Data.deps.json
+E:\Projetos\MVC\CursoMvcJunho22\src\AB.CursoMvc.Infra.Data\bin\Debug\netcoreapp3.1\AB.CursoMvc.Infra.Data.runtimeconfig.json
+E:\Projetos\MVC\CursoMvcJunho22\src\AB.CursoMvc.Infra.Data\bin\Debug\netcoreapp3.1\AB.CursoMvc.Infra.Data.runtimeconfig.dev.json
+E:\Projetos\MVC\CursoMvcJunho22\src\AB.CursoMvc.Infra.Data\bin\Debug\netcoreapp3.1\AB.CursoMvc.Infra.Data.dll
+E:\Projetos\MVC\CursoMvcJunho22\src\AB.CursoMvc.Infra.Data\bin\Debug\netcoreapp3.1\AB.CursoMvc.Infra.Data.pdb
+E:\Projetos\MVC\CursoMvcJunho22\src\AB.CursoMvc.Infra.Data\bin\Debug\netcoreapp3.1\AB.CursoMvc.Domain.dll
+E:\Projetos\MVC\CursoMvcJunho22\src\AB.CursoMvc.Infra.Data\bin\Debug\netcoreapp3.1\AB.CursoMvc.Domain.pdb
+E:\Projetos\MVC\CursoMvcJunho22\src\AB.CursoMvc.Infra.Data\obj\Debug\netcoreapp3.1\AB.CursoMvc.Infra.Data.csproj.AssemblyReference.cache
+E:\Projetos\MVC\CursoMvcJunho22\src\AB.CursoMvc.Infra.Data\obj\Debug\netcoreapp3.1\AB.CursoMvc.Infra.Data.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projetos\MVC\CursoMvcJunho22\src\AB.CursoMvc.Infra.Data\obj\Debug\netcoreapp3.1\AB.CursoMvc.Infra.Data.AssemblyInfoInputs.cache
+E:\Projetos\MVC\CursoMvcJunho22\src\AB.CursoMvc.Infra.Data\obj\Debug\netcoreapp3.1\AB.CursoMvc.Infra.Data.AssemblyInfo.cs
+E:\Projetos\MVC\CursoMvcJunho22\src\AB.CursoMvc.Infra.Data\obj\Debug\netcoreapp3.1\AB.CursoMvc.Infra.Data.csproj.CoreCompileInputs.cache
+E:\Projetos\MVC\CursoMvcJunho22\src\AB.CursoMvc.Infra.Data\obj\Debug\netcoreapp3.1\AB.CursoMvc.Infra.Data.csproj.CopyComplete
+E:\Projetos\MVC\CursoMvcJunho22\src\AB.CursoMvc.Infra.Data\obj\Debug\netcoreapp3.1\AB.CursoMvc.Infra.Data.dll
+E:\Projetos\MVC\CursoMvcJunho22\src\AB.CursoMvc.Infra.Data\obj\Debug\netcoreapp3.1\AB.CursoMvc.Infra.Data.pdb
+E:\Projetos\MVC\CursoMvcJunho22\src\AB.CursoMvc.Infra.Data\obj\Debug\netcoreapp3.1\AB.CursoMvc.Infra.Data.genruntimeconfig.cache

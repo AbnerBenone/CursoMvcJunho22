@@ -1,0 +1,10 @@
+E:\Projetos\MVC\CursoMvcJunho22\src\AB.CursoMvc.Domain\bin\Debug\netcoreapp3.1\AB.CursoMvc.Domain.deps.json
+E:\Projetos\MVC\CursoMvcJunho22\src\AB.CursoMvc.Domain\bin\Debug\netcoreapp3.1\AB.CursoMvc.Domain.dll
+E:\Projetos\MVC\CursoMvcJunho22\src\AB.CursoMvc.Domain\bin\Debug\netcoreapp3.1\AB.CursoMvc.Domain.pdb
+E:\Projetos\MVC\CursoMvcJunho22\src\AB.CursoMvc.Domain\obj\Debug\netcoreapp3.1\AB.CursoMvc.Domain.csproj.AssemblyReference.cache
+E:\Projetos\MVC\CursoMvcJunho22\src\AB.CursoMvc.Domain\obj\Debug\netcoreapp3.1\AB.CursoMvc.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projetos\MVC\CursoMvcJunho22\src\AB.CursoMvc.Domain\obj\Debug\netcoreapp3.1\AB.CursoMvc.Domain.AssemblyInfoInputs.cache
+E:\Projetos\MVC\CursoMvcJunho22\src\AB.CursoMvc.Domain\obj\Debug\netcoreapp3.1\AB.CursoMvc.Domain.AssemblyInfo.cs
+E:\Projetos\MVC\CursoMvcJunho22\src\AB.CursoMvc.Domain\obj\Debug\netcoreapp3.1\AB.CursoMvc.Domain.csproj.CoreCompileInputs.cache
+E:\Projetos\MVC\CursoMvcJunho22\src\AB.CursoMvc.Domain\obj\Debug\netcoreapp3.1\AB.CursoMvc.Domain.dll
+E:\Projetos\MVC\CursoMvcJunho22\src\AB.CursoMvc.Domain\obj\Debug\netcoreapp3.1\AB.CursoMvc.Domain.pdb
