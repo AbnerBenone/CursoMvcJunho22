@@ -10,14 +10,14 @@
         "projectUniqueName": "E:\\Projetos\\MVC\\CursoMvcJunho22\\src\\AB.CursoMvc.Domain\\AB.CursoMvc.Domain.csproj",
         "projectName": "AB.CursoMvc.Domain",
         "projectPath": "E:\\Projetos\\MVC\\CursoMvcJunho22\\src\\AB.CursoMvc.Domain\\AB.CursoMvc.Domain.csproj",
-        "packagesPath": "C:\\Users\\ABNER\\.nuget\\packages\\",
+        "packagesPath": "C:\\Users\\abner\\.nuget\\packages\\",
         "outputPath": "E:\\Projetos\\MVC\\CursoMvcJunho22\\src\\AB.CursoMvc.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\ABNER\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\abner\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -58,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.409\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.410\\RuntimeIdentifierGraph.json"
         }
       }
     },
@@ -68,14 +68,14 @@
         "projectUniqueName": "E:\\Projetos\\MVC\\CursoMvcJunho22\\src\\AB.CursoMvc.Infra.Data\\AB.CursoMvc.Infra.Data.csproj",
         "projectName": "AB.CursoMvc.Infra.Data",
         "projectPath": "E:\\Projetos\\MVC\\CursoMvcJunho22\\src\\AB.CursoMvc.Infra.Data\\AB.CursoMvc.Infra.Data.csproj",
-        "packagesPath": "C:\\Users\\ABNER\\.nuget\\packages\\",
+        "packagesPath": "C:\\Users\\abner\\.nuget\\packages\\",
         "outputPath": "E:\\Projetos\\MVC\\CursoMvcJunho22\\src\\AB.CursoMvc.Infra.Data\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\ABNER\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\abner\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -126,7 +126,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.409\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.410\\RuntimeIdentifierGraph.json"
         }
       }
     }

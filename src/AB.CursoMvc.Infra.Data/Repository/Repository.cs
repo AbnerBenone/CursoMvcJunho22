@@ -37,11 +37,6 @@ namespace AB.CursoMvc.Infra.Data.Repository
             return obj;
         }
 
-        public IEnumerable<TEntity> Buscar(Expression<Func<TEntity, bool>> predicate)
-        {
-            return DbSet.Where(predicate);
-        }
-
         public virtual TEntity ObterPorId(Guid id)
         {
             return DbSet.Find(id);
@@ -62,6 +57,11 @@ namespace AB.CursoMvc.Infra.Data.Repository
             var obj = new TEntity() { Id = id };
             DbSet.Remove(obj);
             SaveChanges();
+        }
+
+        public IEnumerable<TEntity> Buscar(Expression<Func<TEntity, bool>> predicate)
+        {
+            return DbSet.Where(predicate);
         }
 
         public int SaveChanges()
