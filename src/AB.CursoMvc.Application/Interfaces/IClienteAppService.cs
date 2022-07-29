@@ -4,10 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace AB.CursoMvc.Application.ViewModels
+namespace AB.CursoMvc.Application.Interfaces
 {
-    public class EnderecoViewModel
+    interface IClienteAppService
     {
-
     }
 }
